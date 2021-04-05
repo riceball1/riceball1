@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello World 👋
 
-<!--
-**riceball1/riceball1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Dana Ng - Web Developer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [75 Days Hard Challenge App](http://www.danafng.com/75-hard-challenge) and [30 Days of Chess](http://www.danafng.com/30-days-chess)
+- 🌱 I’m currently learning GraphQL, TypeScript, Java, PHP, Systems Design 
+- 👯 I’m looking to collaborate on some kind of fitness app
+- 🤔 I’m looking for help with understanding more about systems design, scalability, performance
+- 💬 Ask me about my journey to web development, futsal/soccer, travel, minimalism, food, and language learning
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/danafng/) - let's chat!
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I was in Iraq for 4 days, and I went solo tripping in Central Europe for 3 weeks
