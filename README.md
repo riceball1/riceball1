@@ -2,7 +2,7 @@
 
 ### My name is Dana Ng - Web Developer
 
-- 🔭 I’m currently working on [75 Days Hard Challenge App](http://www.danafng.com/75-hard-challenge) and [30 Days of Chess](http://www.danafng.com/30-days-chess)
+- 🔭 I’m currently working on a personal fitness tracker and a chess learning app
 - 🌱 I’m currently learning GraphQL, TypeScript, Java, PHP, Systems Design 
 - 👯 I’m looking to collaborate on some kind of fitness app
 - 🤔 I’m looking for help with understanding more about systems design, scalability, performance
