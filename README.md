@@ -2,7 +2,7 @@
 
 ### My name is Dana Ng - Web Developer
 
-- 🔭 I’m currently working on a personal fitness tracker and a chess learning app
+- 🔭 I’m currently working on a personal fitness tracker and a [chess learning app](https://www.danafng.com/10-steps-to-better-chess/)
 - 🌱 I’m currently learning GraphQL, TypeScript, Java, PHP, Systems Design 
 - 👯 I’m looking to collaborate on some kind of fitness app
 - 🤔 I’m looking for help with understanding more about systems design, scalability, performance
