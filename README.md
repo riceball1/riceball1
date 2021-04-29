@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-### My name is Dana Ng - Web Developer
+### My name is Dana Ng
 
 - 🔭 I’m currently working on a [75 Hard Tracking App](https://gallant-hawking-256e81.netlify.app/) and a [Boba Friends App](https://infallible-minsky-364aa6.netlify.app/)
 - 🌱 I’m currently learning GraphQL, TypeScript, Java, Cypress.io, Systems Design, AI/Machine Learning 
