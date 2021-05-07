@@ -3,9 +3,9 @@
 ### My name is Dana Ng
 
 - 🔭 I’m currently working on a [75 Hard Tracking App](https://gallant-hawking-256e81.netlify.app/) and a [Boba Friends App](https://infallible-minsky-364aa6.netlify.app/)
-- 🌱 I’m currently learning GraphQL, TypeScript, Java, Cypress.io, Systems Design, AI/Machine Learning 
+- 🌱 I’m currently learning GraphQL, TypeScript, Frontend Security, Performance, Cypress.io, Systems Design, AI/Machine Learning 
 - 👯 I’m looking to collaborate on some kind of fitness app
-- 🤔 I’m looking for help with understanding more about systems design, testing, performance, and advanced frontend
+- 🤔 I’m looking for help with understanding more about systems design, testing, performance, and advanced frontend and cyber security
 - 💬 Ask me about my journey to web development, futsal/soccer, travel, minimalism, food, and language learning
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/danafng/) - let's chat!
 - 😄 Pronouns: she/her
