@@ -10,3 +10,4 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/danafng/) - let's chat!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I was in Iraq for 4 days, and I went solo tripping in Central Europe for 3 weeks
+- 🪣 Achieving my evolving [bucket list](https://gist.github.com/riceball1/995ea11cddf60e725dd62899d61686c1) before I die, YOLO
