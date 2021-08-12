@@ -2,7 +2,7 @@
 
 ### My name is Dana Ng
 
-- 🔭 I’m currently working on a [75 Hard Tracking App](https://hard-challenge.web.app/).
+- 🔭 I’m currently working on a [75 Hard Tracking App](https://hard-challenge.web.app/) and "Find Your Tribe" app.
 - 🌱 I’m currently learning GraphQL, TypeScript, Frontend Security, Performance, Cypress.io, Systems Design, AI/Machine Learning 
 - 👯 I’m looking to collaborate on some kind of fitness app
 - 🤔 I’m looking for help with understanding more about systems design, testing, performance, and advanced frontend and cyber security
