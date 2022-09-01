@@ -2,7 +2,7 @@
 
 ### My name is Dana Ng
 
-- 🔭 I’m currently working on a [75 Hard Tracking App](https://hard-challenge.web.app/) and [Polyglot](https://www.danafng.com/polyglot/)
+- 🔭 I’m currently working on a [Project You](https://github.com/riceball1/project-you) and [Polyglot](https://www.danafng.com/polyglot/)
 - 🌱 I’m currently learning GraphQL, TypeScript, Frontend Security, Performance, Cypress.io, Systems Design, Algorithims, Data Visualization, AI/Machine Learning, Blockchain 
 - 👯 I’m looking to collaborate on some kind of fitness app
 - 🤔 I’m looking for help with understanding more about systems design, testing, performance, and advanced frontend and cyber security
