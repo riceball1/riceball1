@@ -2,7 +2,7 @@
 
 ### My name is Dana Ng
 
-- 🔭 I’m currently working on a self improvement tracker called [Ramen Recommendation Engine 🍜](https://github.com/coding-boba/ramen-recommendation-engine)
+- 🔭 I’m currently working on a a group project focusing on the frontend, api, and database layers called [Ramen Recommendation Engine 🍜](https://github.com/coding-boba/ramen-recommendation-engine)
 - 🌱 I’m currently learning GraphQL, TypeScript, Frontend Security, Performance, Cypress.io, Systems Design, Algorithims, Data Visualization, AI/Machine Learning, Blockchain 
 - 👯 I’m looking to collaborate on some kind of fitness app
 - 🤔 I’m looking for help with understanding more about systems design, testing, performance, and advanced frontend and cyber security
