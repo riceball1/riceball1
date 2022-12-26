@@ -21,3 +21,6 @@
 **On Going**
 - [Flex Charts](https://www.danafng.com/flex-charts/index.html) - Tech Stack: HTML/CSS
 
+**To Complete**
+- [Polyglot](www.danafng.com/polyglot/)
+
