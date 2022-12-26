@@ -2,7 +2,7 @@
 
 ### My name is Dana Ng
 
-- 🔭 I'm currently completing courses on frontend, backend, and react native.
+- 🔭 I'm currently completing coursera certificates focused on frontend, backend, and react native.
 - 🌱 I’m currently learning GraphQL, TypeScript, Frontend Security, Performance, Cypress.io, Systems Design, Algorithims, Data Visualization, AI/Machine Learning, Blockchain 
 - 👯 I’m looking to collaborate on some kind of fitness app
 - 🤔 I’m looking for help with understanding more about systems design, testing, performance, and advanced frontend and cyber security
@@ -11,3 +11,13 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I was in Iraq for 4 days, and I went solo tripping in Central Europe for 3 weeks
 - 🪣 Achieving my evolving [bucket list](https://gist.github.com/riceball1/995ea11cddf60e725dd62899d61686c1) before I die, YOLO
+
+### Projects/Experiments
+**Complete [needs improvements]**
+- [Decision Maker](https://www.danafng.com/decision-maker/) - Tech Stack: vue.js
+- [75 Hard](https://gallant-hawking-256e81.netlify.app/) - Tech Stack: vue.js
+- [Budda-don-give-a-fuck](https://www.danafng.com/budda-don-give-a-fuck/) - Tech Stack: HTML/CSS
+
+**On Going**
+- [Flex Charts](https://www.danafng.com/flex-charts/index.html) - Tech Stack: HTML/CSS
+
