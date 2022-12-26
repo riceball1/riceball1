@@ -24,3 +24,7 @@
 **To Complete**
 - [Polyglot](www.danafng.com/polyglot/)
 
+**Older Projects (Demo May Be Deprecated)**
+- [Simple Code](https://github.com/riceball1/simple-code) - 2017
+- [Multilingual Twitter](https://github.com/riceball1/multilingual-twitter) - 2017
+
