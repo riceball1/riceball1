@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently completing coursera certificates focused on frontend, backend, and react native.
 - 🌱 I’m currently learning GraphQL, TypeScript, Frontend Security, Performance, Cypress.io, Systems Design, Algorithims, Data Visualization
-- 👯 I’m looking to collaborate on some kind of fitness app
+- 👯 I’m looking to build something interesting on the web.
 - 🤔 I’m looking for help with understanding more about systems design, testing, performance, and advanced frontend and cyber security
 - 💬 Ask me about my journey to web development, futsal/soccer, travel, minimalism, food, and language learning
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/danafng/) - let's chat!
