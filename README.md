@@ -20,6 +20,7 @@
 
 **On Going**
 - [Flex Charts](https://www.danafng.com/flex-charts/index.html) - Tech Stack: HTML/CSS
+- [Ramen Recommendation Engine](https://github.com/riceball1/ramen-recommendation-engine) - Nuxt.js, TailwindCSS, Firebase
 
 **To Complete**
 - [Polyglot](www.danafng.com/polyglot/)
