@@ -16,10 +16,54 @@
 
 ## What am I doing?
 
-|Type | Example Repos|
-|---|---|
-| To Do | Air Qazaq Website ( able to book flights and search for trips), Cafe Polyglot - a website for my dream cafe where people can order food to a table and book work stations to practice their target language(s)|
-|In Progress | [Flex Charts](https://www.danafng.com/flex-charts/index.html); [Ramen Recommendation Engine](https://github.com/riceball1/ramen-recommendation-engine); [Frontend Dev Guide](https://riceball.gitbook.io/frontend-dev-guide/);[Polyglot](www.danafng.com/polyglot/) |
-| Complete Projects| [Decision Maker](https://www.danafng.com/decision-maker/), [75 Hard](https://gallant-hawking-256e81.netlify.app/), [Budda-don-give-a-fuck](https://www.danafng.com/budda-don-give-a-fuck/)|
-| Older Completed Projects |[Simple Code](https://github.com/riceball1/simple-code); [Multilingual Twitter](https://github.com/riceball1/multilingual-twitter)|
+<table>
+  <tbody>
+    <tr>
+      <th>Type</th>
+      <th align="center">Repos</th>
+    </tr>
+    <tr>
+      <td>To Do</td>
+      <td>
+      <ul>
+          <li>Air Qazaq Website ( able to book flights and search for trips)</li>
+          <li>Cafe Polyglot - a website for my dream cafe where people can order food to a table and book work stations to practice their target language(s)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>In Progress</td>
+      <td>
+      <ul>
+        <li><a href="https://www.danafng.com/flex-charts/index.html">Flex Charts</a> </li>
+        <li> <a href="https://github.com/riceball1/ramen-recommendation-engine">Ramen Recommendation Engine</a> </li>
+        <li><a href="https://riceball.gitbook.io/frontend-dev-guide/">Frontend Dev Guide</a></li>
+        <li><a href="www.danafng.com/polyglot/">Polyglot</a></li>
+        <li><a href="https://github.com/riceball1/simple-language-cards-nextjs">simple language cards app</a> </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+     <td>Completed Projects</td>
+      <td>
+      <ul>
+        <li><a href="https://www.danafng.com/decision-maker/">Decision Maker</a></li>
+        <li><a href="https://gallant-hawking-256e81.netlify.app/">75 Hard</a></li>
+        <li><a href="https://www.danafng.com/budda-don-give-a-fuck/">Budda-don-give-a-fuck</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Older Completed Bootcamp Projects</td>
+      <td>
+      <ul>
+        <li><a href="https://github.com/riceball1/simple-code">Simple Code</a></li>
+        <li> <a href="https://github.com/riceball1/multilingual-twitter">Multilingual Twitter</a> </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
