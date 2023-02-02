@@ -18,7 +18,8 @@
 
 |Type | Example Repos|
 |---|---|
-| Projects/Experiments | [Decision Maker](https://www.danafng.com/decision-maker/), [75 Hard](https://gallant-hawking-256e81.netlify.app/), [Budda-don-give-a-fuck](https://www.danafng.com/budda-don-give-a-fuck/) |
+| To Do | Air Qazaq Website ( able to book flights and search for trips), Cafe Polyglot - a website for my dream cafe where people can order food to a table and book work stations to practice their target language(s)|
 |In Progress | [Flex Charts](https://www.danafng.com/flex-charts/index.html); [Ramen Recommendation Engine](https://github.com/riceball1/ramen-recommendation-engine); [Frontend Dev Guide](https://riceball.gitbook.io/frontend-dev-guide/);[Polyglot](www.danafng.com/polyglot/) |
+| Complete Projects| [Decision Maker](https://www.danafng.com/decision-maker/), [75 Hard](https://gallant-hawking-256e81.netlify.app/), [Budda-don-give-a-fuck](https://www.danafng.com/budda-don-give-a-fuck/)|
 | Older Completed Projects |[Simple Code](https://github.com/riceball1/simple-code); [Multilingual Twitter](https://github.com/riceball1/multilingual-twitter)|
 
