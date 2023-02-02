@@ -11,7 +11,7 @@
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/danafng/) - let's chat!
 
 
-🪣 Achieving my evolving [bucket list](https://gist.github.com/riceball1/995ea11cddf60e725dd62899d61686c1); YOLO
+🪣 Achieving my evolving [bucket list](https://gist.github.com/riceball1/995ea11cddf60e725dd62899d61686c1) YOLO !!!
 
 
 ## What am I doing?
@@ -28,6 +28,9 @@
       <ul>
           <li>Air Qazaq Website ( able to book flights and search for trips)</li>
           <li>Cafe Polyglot - a website for my dream cafe where people can order food to a table and book work stations to practice their target language(s)</li>
+                <li><a href="https://www.danafng.com/flex-charts/index.html">Flex Charts</a> </li>
+        <li> <a href="https://github.com/riceball1/ramen-recommendation-engine">Ramen Recommendation Engine</a> </li>
+        <li><a href="www.danafng.com/polyglot/">Polyglot</a></li>
         </ul>
       </td>
     </tr>
@@ -35,10 +38,6 @@
       <td>In Progress</td>
       <td>
       <ul>
-        <li><a href="https://www.danafng.com/flex-charts/index.html">Flex Charts</a> </li>
-        <li> <a href="https://github.com/riceball1/ramen-recommendation-engine">Ramen Recommendation Engine</a> </li>
-        <li><a href="https://riceball.gitbook.io/frontend-dev-guide/">Frontend Dev Guide</a></li>
-        <li><a href="www.danafng.com/polyglot/">Polyglot</a></li>
         <li><a href="https://github.com/riceball1/simple-language-cards-nextjs">simple language cards app</a> </li>
         </ul>
       </td>
@@ -59,6 +58,14 @@
       <ul>
         <li><a href="https://github.com/riceball1/simple-code">Simple Code</a></li>
         <li> <a href="https://github.com/riceball1/multilingual-twitter">Multilingual Twitter</a> </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Documentation/Knowledge Bank</td>
+      <td>
+      <ul>
+       <li><a href="https://riceball.gitbook.io/frontend-dev-guide/">Frontend Dev Guide</a></li>
         </ul>
       </td>
     </tr>
