@@ -39,7 +39,6 @@
       <td>
       <ul>
         <li><a href="https://github.com/riceball1/simple-language-cards-nextjs">simple language cards app</a> </li>
-        <li><a href="https://github.com/riceball1/battleship">Battleship</a></li>
         </ul>
       </td>
     </tr>
@@ -51,6 +50,7 @@
         <li><a href="https://gallant-hawking-256e81.netlify.app/">75 Hard</a></li>
         <li><a href="https://www.danafng.com/budda-don-give-a-fuck/">Budda-don-give-a-fuck</a></li>
         <li><a href="https://github.com/riceball1/sustainable-fashion">sustainable fashion</a></li>
+         <li><a href="https://github.com/riceball1/battleship">Battleship</a></li>
         </ul>
       </td>
     </tr>
