@@ -2,7 +2,7 @@
 
 ## About me
 
-🔭 I'm currently diving deeper into the frontend and working on building out this [Frontend Dev Guide](https://riceball.gitbook.io/frontend-dev-guide/) as I interview for a frontend developer position. Additionally I'm building an app called [Simple Cards]([https://github.com/riceball1/simple-language-cards-nextjs](https://github.com/riceball1/simple-cards)) using nextjs.
+🔭 I'm currently diving deeper into the frontend and working on building out this [Frontend Dev Guide](https://riceball.gitbook.io/frontend-dev-guide/) and supporting development with [a11ybears](https://github.com/accessibilitybears) on helping others learn more about accessibility on the web. Additionally I'm building an app called [Simple Cards]([https://github.com/riceball1/simple-language-cards-nextjs](https://github.com/riceball1/simple-cards)) using nextjs.
 
 🌱 I’m currently learning Python, SQL, Nodejs, Frontend Systems Design, DSA + Algorithims, and Data Visualization with D3.js
 
