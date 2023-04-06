@@ -40,6 +40,7 @@
       <td>
       <ul>
         <li><a href="https://github.com/riceball1/simple-cards">Simple Cards</a> </li>
+        <li><a href="https://github.com/riceball1/json-viewer">JSON Viewer</a></li>
         </ul>
       </td>
     </tr>
