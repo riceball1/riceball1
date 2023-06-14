@@ -2,7 +2,7 @@
 
 ## About me
 
-🔭 I'm currently diving deeper into the frontend and working on building out this [Frontend Dev Guide](https://riceball.gitbook.io/frontend-dev-guide/) and working with [a11ybears](https://github.com/accessibilitybears) to bring more accessibility learning to the web.
+🔭 I'm currently working at eSpark Learning building math activities for K-5
 
 🌱 I’m currently learning Python, SQL, Nodejs, Frontend Systems Design, DSA + Algorithims, and Data Visualization with D3.js
 
