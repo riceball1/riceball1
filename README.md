@@ -34,13 +34,21 @@
         </ul>
       </td>
     </tr>
-    <tr>
-      <td>In Progress</td>
+     <tr>
+      <td>Paused</td>
       <td>
       <ul>
         <li><a href="https://github.com/riceball1/simple-cards">Simple Cards</a> </li>
         <li><a href="https://github.com/riceball1/tamagotchi-pet">Tamagotchi Pet</a></li>
         <li><a href="https://github.com/riceball1/air-qazaq">Air Qazaq Website</a> ( able to book flights and search for trips)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>In Progress</td>
+      <td>
+      <ul>
+        <li><a href=" https://github.com/riceball1/lingua-hub">Lingua Hub</a> </li>
         </ul>
       </td>
     </tr>
