@@ -4,7 +4,7 @@
 
 🔭 I'm currently working at eSpark Learning building math activities for K-5
 
-🌱 I’m currently learning Python, SQL, Nodejs, Frontend Systems Design, DSA + Algorithims, and Data Visualization with D3.js
+🌱 I’m currently learning svelte, typescript, and working with a ruby/elm application
 
 💬 Ask me about my journey to web development, futsal/soccer, travel, minimalism, food, and language learning
 
