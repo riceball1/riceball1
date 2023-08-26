@@ -48,7 +48,7 @@
       <td>In Progress</td>
       <td>
       <ul>
-        <li><a href=" https://github.com/riceball1/lingua-hub">Lingua Hub</a> </li>
+        <li><a href="https://github.com/riceball1/lingua-hub">Lingua Hub</a> </li>
         </ul>
       </td>
     </tr>
