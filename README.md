@@ -41,14 +41,15 @@
         <li><a href="https://github.com/riceball1/simple-cards">Simple Cards</a> </li>
         <li><a href="https://github.com/riceball1/tamagotchi-pet">Tamagotchi Pet</a></li>
         <li><a href="https://github.com/riceball1/air-qazaq">Air Qazaq Website</a> ( able to book flights and search for trips)</li>
-        </ul>
+       <li> <a href="https://github.com/riceball1/ramen-recommendation-engine">Ramen Recommendation Engine</a> </li>
+      </ul>
       </td>
     </tr>
     <tr>
       <td>In Progress</td>
       <td>
-      <ul>
-       <li> <a href="https://github.com/riceball1/ramen-recommendation-engine">Ramen Recommendation Engine</a> </li>
+        <ul>
+       <li> <a href="https://github.com/riceball1/one-line-a-day-journal">One Line A Day Journal</a> </li>
         </ul>
       </td>
     </tr>
