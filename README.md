@@ -54,7 +54,7 @@
       </td>
     </tr>
     <tr>
-     <td>Complete Projects To Refactor</td>
+     <td>Projects To Refactor</td>
       <td>
       <ul>
         <li><a href="https://gallant-hawking-256e81.netlify.app/">75 Hard</a></li>
