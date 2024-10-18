@@ -28,7 +28,7 @@
       <ul>
         <li>311 CRM - Twitter - Citizens - Like App for public safety organizations to report problems, and gather stats, report on emergencies locally </li>
           <li>Cafe Polyglot - a website for my dream cafe where people can order food to a table and book work stations to practice their target language(s)</li>
-                <li><a href="https://www.danafng.com/flex-charts/index.html">Flex Charts</a> </li>
+                <li><a href="https://riceball1.github.io/flex-charts/">Flex Charts</a> </li>
         <li><a href="https://riceball1.github.io/polyglot/">Polyglot</a></li>
         </ul>
       </td>
