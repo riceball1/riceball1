@@ -58,7 +58,7 @@
       <td>
       <ul>
         <li><a href="https://gallant-hawking-256e81.netlify.app/">75 Hard</a></li>
-        <li><a href="https://www.danafng.com/budda-don-give-a-fuck/">Budda-don-give-a-fuck</a></li>
+        <li><a href="https://riceball1.github.io/budda-don-give-a-fuck/">Budda-don-give-a-fuck</a></li>
         </ul>
       </td>
     </tr>
