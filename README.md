@@ -69,6 +69,7 @@
         <li><a href="https://www.danafng.com/decision-maker/">Decision Maker</a></li>
         <li><a href="https://github.com/riceball1/sustainable-fashion">sustainable fashion</a></li>
          <li><a href="https://github.com/riceball1/battleship">Battleship</a></li>
+        <li><a href="https://riceball1.github.io/lincoln-fc/">Lincoln FC - A Coloring Page for my local soccer group</a></li>
         </ul>
       </td>
     </tr>
