@@ -2,9 +2,9 @@
 
 ## About me
 
-🔭 I'm currently working at eSpark Learning building math activities for K-5
+🔭 I'm currently working at Output Inc as a Senior Software Engineer on the Web Squad
 
-🌱 I’m currently learning svelte, typescript, and working with a ruby/elm application
+🌱 I’m currently learning vue, google cloud platform and advanced web development topics.
 
 💬 Ask me about my journey to web development, futsal/soccer, travel, minimalism, food, and language learning
 
