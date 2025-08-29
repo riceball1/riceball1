@@ -2,7 +2,7 @@
 
 ## About me
 
-🔭 I'm currently working at Output Inc as a Senior Software Engineer on the Web Squad
+🔭 I'm currently looking for my next role as a software engineer, fullstack/frontend leaning
 
 🌱 I’m currently learning vue, google cloud platform and advanced web development topics.
 
