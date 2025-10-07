@@ -60,6 +60,7 @@
          <li> <a href="https://github.com/riceball1/boba-cafe">Boba Cafe - demonstrate some e-commerce website but with Boba theme</a> </li>
         <li> <a href="https://github.com/riceball1/learn-a11y">Learn A11y - transform's Google's resoure on learning a11y into an interactive fun site</a> </li>
           <li> <a href="https://github.com/riceball1/made-with-rice">Made with Rice - display my handmade items</a> </li>
+          <li> <a href="https://github.com/riceball1/learn-chess">Learn Chess</a> </li>
         </ul>
       </td>
     </tr>
